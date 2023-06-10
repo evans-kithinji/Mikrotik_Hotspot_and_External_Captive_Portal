@@ -3,4 +3,8 @@ This is a repository containing resources for setting up a WiFi captive portal o
 
 ## Here are some important links to check out;
 Tutorial on how to setup captive portal on Mikrotik router
+
 https://youtu.be/-4QLVlVkyxg
+
+Tutorials on captive portal integration:
+Check out this github profile : https://github.com/nasirhafeez
